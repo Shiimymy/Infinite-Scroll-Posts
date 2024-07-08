@@ -1,2 +1,3 @@
 # Infinite-Scroll-Posts
- Course - mini frontend projects
+
+Course Infinite Scrolling & Filter - mini frontend projects by [@bradtraversy](https://github.com/bradtraversy)
